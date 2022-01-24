@@ -822,7 +822,8 @@ a:visited {
   color: #18212E;
 }
 .site-header__header-four .stricked-menu {
-  background-color: #18212E;
+  background-color: #fff;
+  color: #18212E;
 }
 .site-header__header-four .stricked-menu ul.navigation-box > li {
   padding-top: 20px;
