@@ -803,7 +803,7 @@ a:visited {
   padding: 44.5px 0;
 }
 .site-header__header-four .header-navigation ul.navigation-box > li > a {
-  color: #7B7F85;
+  color: #111;
 }
 .site-header__header-four .header-navigation ul.navigation-box > li.current > a, .site-header__header-four .header-navigation ul.navigation-box > li:hover > a {
   color: #e18b1d;
@@ -811,7 +811,7 @@ a:visited {
 .site-header__header-four-btn {
   padding: 20px 48px;
   background-color: #18212E;
-  color: #7B7F85;
+  color: #fff;
   font-weight: 600;
   text-transform: uppercase;
   font-size: 13px;
@@ -831,7 +831,7 @@ a:visited {
   padding-bottom: 20px;
 }
 .site-header__header-four .stricked-menu .site-header__header-four-btn {
-  background-color: #fff;
+  background-color: #e18b1d;
   
 }
 .site-header__header-four .stricked-menu .site-header__header-four-btn:hover {
