@@ -638,8 +638,8 @@ a:visited {
 }
 
 .site-header__header-two {
-  position: relative;
-  background-color: white;
+  
+  background-color: transparent;
   -webkit-box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.03);
           box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.03);
 }
