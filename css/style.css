@@ -600,6 +600,8 @@ a:visited {
 .header-one__link {
   color: #fff;
   font-size: 16px;
+  padding: 20px 48px;
+  background-color: #e18b1d;
   font-weight: 600;
   -webkit-transition: all .4s ease;
   transition: all .4s ease;
@@ -665,8 +667,9 @@ a:visited {
   padding: 44.5px 0;
 }
 .site-header__header-two-btn {
-  padding: 50px 68px;
+  padding: 20px 48px;
   background-color: #e18b1d;
+  margin-right: 30px;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
